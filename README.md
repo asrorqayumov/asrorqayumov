@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/qayumovasror" target="blank"><img src="https://img.shields.io/twitter/follow/qayumovasror?logo=twitter&style=for-the-badge" alt="qayumovasror" /></a> </p>
 
-- 🌱 I’m currently learning **React & Redux**
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/asrorqayumov">Github</a>
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **Frontend (Html,Css,Bootstrap,Sass,Javascript(ES6+), React , Redux , Material ui,)**
 
 - 📫 How to reach me **asrorqayumov@mail.ru**
 

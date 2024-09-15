@@ -34,7 +34,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material-ui" width="40" height="40"/> </a>
  <a href="https://www.styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://www.styled-components.com/atom.png" alt="styled-components" width="40" height="40"/> </a>
 https://angular.dev/
- <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgRjMzKvBQu0YsiW7bolzlvfIpaNon9KqnZlehRDWsX-_IadPKn8Zi9BwbHeWBdoWf3SU&usqp=CAU" alt="Angular" width="40" height="40"/> </a>
+ <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20190211/kji/kisspng-angularjs-javascript-front-and-back-ends-react-angular-schule-angular-schulungen-fr-ihr-tea-5c6252c3708682.5217565315499475874609.jpg" alt="Angular" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://t1.daumcdn.net/cfile/tistory/999AF54B5B93D78C25" alt="webpack" width="40" height="40"/> </a>

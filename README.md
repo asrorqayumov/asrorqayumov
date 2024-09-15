@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asror Qayumov</h1>
 <h3 align="center">A passionate and enthusiastic Frontend (React js & Angular) developer from Uzbekistan</h3>
-<img align='right' alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrorqayumov&label=Profile%20views&color=0e75b6&style=flat" alt="asrorqayumov" /> </p>
@@ -34,7 +33,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="material-ui" width="40" height="40"/> </a>
  <a href="https://www.styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://www.styled-components.com/atom.png" alt="styled-components" width="40" height="40"/> </a>
 https://angular.dev/
- <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://thumbnail.imgbin.com/23/14/14/imgbin-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-cPsic5sDZ2ZQHChNtM6wNDCKJ_t.jpg" alt="Angular" width="40" height="40"/> </a>
+ <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="Angular" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://t1.daumcdn.net/cfile/tistory/999AF54B5B93D78C25" alt="webpack" width="40" height="40"/> </a>

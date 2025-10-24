@@ -7,7 +7,7 @@
 
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/asrorqayumov">Github</a>
 
-- 💬 Ask me about **Html,Css,Bootstrap,Sass,Javascript(ES6+), React , Redux , Material UI, Firebase, Angular**
+- 💬 Ask me about **Html,Css,Bootstrap,Sass,Javascript(ES6+), React, Angular**
 
 - 📫 How to reach me **asrorqayumov@mail.ru**
 
